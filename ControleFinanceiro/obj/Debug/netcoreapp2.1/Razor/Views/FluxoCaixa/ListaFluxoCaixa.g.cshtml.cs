@@ -64,7 +64,7 @@ using ControleFinanceiro.Models;
             WriteLiteral("\r\n<hr />\r\n<p>\r\n    ");
             EndContext();
             BeginContext(145, 77, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "df297942f4b245cabcde37f050f46932", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "72cbd5a5228c49a38387f0a4b3858868", async() => {
                 BeginContext(208, 10, true);
                 WriteLiteral(" Novo item");
                 EndContext();

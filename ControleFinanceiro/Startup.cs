@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using AutoMapper;
 using Business.Services;
 using ControleFinanceiro.Infra.Services;
 using ControleFinanceiro.Models.EmailModel;
@@ -28,6 +29,7 @@ namespace ControleFinanceiro
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ContextBase>(opt => opt.UseInMemoryDatabase("ControleFinanceiroPessoal"));
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             services.Configure<EmailConfiguration>(Configuration.GetSection("EmailConfiguration"));
 

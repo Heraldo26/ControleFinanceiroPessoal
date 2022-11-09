@@ -12,7 +12,7 @@ namespace ControleFinanceiro.Infra.Services
         private string emailFromAddress = "fluxocaixapessoal@hotmail.com";
         private string password = "linx@2022";
 
-        private readonly EmailConfiguration _emailConfiguration;
+        //private readonly EmailConfiguration _emailConfiguration;
 
         //public MailService(IOptions<EmailConfiguration> emailConfiguration)
         //{
