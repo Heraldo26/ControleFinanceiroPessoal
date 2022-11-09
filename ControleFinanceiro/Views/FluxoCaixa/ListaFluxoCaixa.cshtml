@@ -1,0 +1,124 @@
+﻿@model IEnumerable<ControleFinanceiro.Models.FluxoCaixa.FluxoCaixaModel>
+
+@{
+    ViewData["Title"] = "Fluxo de Caixa";
+}
+
+<hr />
+<p>
+    <a asp-action="CreateFluxo" class="btn btn-primary pull-right"> Novo item</a>
+</p>
+<div class="container">
+    <h2>Lista de Fluxo de Caixa</h2>
+    <div class="panel-group">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Fluxo Caixa</div>
+            <div class="panel-body">
+                <table class="table table-responsive table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Tipo)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Data)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Descricao)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Valor)
+                            </th>
+                            <th>
+                                Saldo
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            if (item.Tipo == Business.Util.TipoCaixaEnum.Despesa.ToString())
+                            {
+                                <tr class="alert-danger">
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Tipo)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Data)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Descricao)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Valor)
+                                    </td>
+                                    <td>
+                                        <label>@ViewBag.Saldos[item.Id]</label>
+                                    </td>
+                                </tr>
+                            }
+                            else
+                            {
+                                <tr class="alert-info">
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Tipo)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Data)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Descricao)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Valor)
+                                    </td>
+                                    <td>
+                                        <label>@ViewBag.Saldos[item.Id]</label>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td>
+                                <label>
+                                    Saldo Final do fluxo de caixa:
+                                    @if ((decimal)ViewBag.SaldoFinal < 0)
+                                    {
+                                        <span class="text-danger"> @ViewBag.SaldoFinal</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="text-info"> @ViewBag.SaldoFinal</span>
+                                    }
+                                </label>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-body">
+                <div>
+                    <h4 class="text-danger">
+                        Dias em que o caixa teve despesas maiores que receitas:
+                    </h4>
+                    @foreach (var item in ViewBag.DatasNegativa)
+                    {
+                        <label>@item.ToString("dd/MM/yyyy") </label><br />
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

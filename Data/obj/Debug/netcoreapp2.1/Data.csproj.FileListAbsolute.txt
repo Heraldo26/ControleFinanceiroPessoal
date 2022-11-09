@@ -1,0 +1,30 @@
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.json
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.dev.json
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.csproj.CopyComplete
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.json
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.dev.json
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.csproj.CopyComplete
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Data\obj\Debug\netcoreapp2.1\Data.pdb

@@ -1,0 +1,18 @@
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\Model\obj\Debug\netcoreapp2.1\Model.pdb

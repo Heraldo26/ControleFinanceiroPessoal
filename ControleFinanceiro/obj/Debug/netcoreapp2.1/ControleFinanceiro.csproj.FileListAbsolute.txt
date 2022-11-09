@@ -1,0 +1,76 @@
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.deps.json
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.runtimeconfig.json
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.runtimeconfig.dev.json
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.Views.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.Views.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.csprojAssemblyReference.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorAssemblyInfo.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorAssemblyInfo.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.AssemblyInfoInputs.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.AssemblyInfo.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.TagHelpers.input.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.TagHelpers.output.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorCoreGenerate.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorTargetAssemblyInfo.cache
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorTargetAssemblyInfo.cs
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.Views.pdb
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.csproj.CopyComplete
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.dll
+C:\Users\37943440811\source\repos\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.deps.json
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.runtimeconfig.json
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.runtimeconfig.dev.json
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.Views.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\ControleFinanceiro.Views.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.csprojAssemblyReference.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorAssemblyInfo.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorAssemblyInfo.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.AssemblyInfoInputs.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.AssemblyInfo.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.TagHelpers.input.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.TagHelpers.output.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorCoreGenerate.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\FluxoCaixa\CreateFluxo.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\FluxoCaixa\ListaFluxoCaixa.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorTargetAssemblyInfo.cache
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.RazorTargetAssemblyInfo.cs
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.Views.pdb
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.csproj.CopyComplete
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.dll
+C:\Users\heral\Downloads\Teste Linx\ControleFinanceiro\ControleFinanceiro\obj\Debug\netcoreapp2.1\ControleFinanceiro.pdb
